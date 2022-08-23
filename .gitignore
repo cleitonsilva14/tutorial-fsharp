@@ -13,3 +13,5 @@ FirstApp/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.fs
 FirstApp/obj/Debug/net6.0/FirstApp.AssemblyInfo.fs
 FirstApp/FirstApp.fsproj
 HelloWorld/HelloWorld.fsproj
+*.fs
+*.fsproj
