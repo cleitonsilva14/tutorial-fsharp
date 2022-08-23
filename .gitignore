@@ -1,0 +1,14 @@
+
+FirstApp/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+*.dll
+*.exe
+*.pdb
+*.json
+*.cache
+*.txt
+*.targets
+*.CopyComplete
+*.props
+FirstApp/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.fs
+FirstApp/obj/Debug/net6.0/FirstApp.AssemblyInfo.fs
+FirstApp/FirstApp.fsproj
