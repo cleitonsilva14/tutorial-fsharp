@@ -3,7 +3,7 @@
 [<EntryPoint>]
 let main argv =
 
-    printfn "%A" argv
+    printfn "%A" argv[2]
 
     let mutable a = "Abacaxi"
     printfn "%s" a
