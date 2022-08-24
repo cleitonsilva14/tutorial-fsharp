@@ -6,7 +6,6 @@ let somar a b =
 
 [<EntryPoint>]
 let main argv =
-    let argumentos = argv
     
     let x = 15
     let y = 15
