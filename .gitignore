@@ -15,3 +15,5 @@ FirstApp/FirstApp.fsproj
 HelloWorld/HelloWorld.fsproj
 *.fs
 *.fsproj
+
+.fake
